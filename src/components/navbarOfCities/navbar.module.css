@@ -1,0 +1,10 @@
+.list {
+    display: flex;
+    gap: 10px;
+    margin: 20px 0px;
+}
+
+.activeLink {
+    color: brown;
+    font-weight: bold;
+}

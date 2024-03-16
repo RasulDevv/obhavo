@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'roboto';
+    src: url(../../fonts/Roboto-Regular.ttf);
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#root {
+    font-family: 'roboto';
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.hr {
+    width: 100%;
+    height: 1px;
+    background-color: gray;
+}

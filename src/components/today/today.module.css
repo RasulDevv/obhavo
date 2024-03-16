@@ -1,0 +1,16 @@
+
+.today {
+    border: 1px solid #000000bd;
+    background-color: rgba(95, 158, 160, 0.397);
+}
+
+.today_temp {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.today_temp > div > p {
+    font-size: 20px;
+}
+
